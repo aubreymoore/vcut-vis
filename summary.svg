@@ -13,16 +13,13 @@
         </a> at 2026-10-22T01:04Z.
       </tspan>
 
+      <tspan x="20" dy="2.4em">This page demonstrates a super-lightweight way of showing annotated images.</tspan>
+      <tspan x="20" dy="1.2em">Data are delivered in a ZIP file of only 19.9 kB.</tspan>
+      
       <tspan x="20" dy="2.4em">The attached images were annotated by a new vcut detection algorithm.</tspan>
       <tspan x="20" dy="1.2em">The intent of this report is to show results of filtering detected vcuts by pixel_count.</tspan>
       <tspan x="20" dy="1.2em">Other filtering methods are available and these will be evaluated during fine tuning.</tspan>
       <tspan x="20" dy="1.2em">Visit the Colab notebook for details and updates.</tspan>
-      <tspan x="20" dy="2.4em">minimum vcut area (pixel count) | number of vcuts detected</tspan>
-      <tspan x="20" dy="1.2em">0 | 69</tspan>
-      <tspan x="20" dy="1.2em">100 | 52</tspan>
-      <tspan x="20" dy="1.2em">200 | 30</tspan>
-      <tspan x="20" dy="1.2em">300 | 12</tspan>
-      <tspan x="20" dy="1.2em">400 | 1</tspan>
     </text>
   </svg>
   
